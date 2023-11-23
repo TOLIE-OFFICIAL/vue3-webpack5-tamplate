@@ -1,0 +1,7 @@
+{
+  "vetur.validation.template": true,
+  "vetur.format.defaultFormatter.js": "prettier",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "eslint.enable": true,
+  "eslint.lintTask.enable": true
+}
