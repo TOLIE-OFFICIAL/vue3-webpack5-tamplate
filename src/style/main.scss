@@ -1,0 +1,12 @@
+$color-black: #000;
+$color-white: #fff;
+$green:#019121;
+
+body {
+  background-color: $color-white;
+  h1 {
+    color: $color-black;
+    font-size: 40px;
+    // display: flex;
+  }
+}
